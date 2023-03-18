@@ -1,2 +1,2 @@
 # Old Google Search UI
-A basic extension that changes Google search back to old UI (from 2022).
+A basic extension that makes Google search look how it did in 2022 (before the favicons).
