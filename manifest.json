@@ -1,0 +1,11 @@
+{
+  "content_scripts": [ {
+    "css": ["style.css"],
+	"matches": [ "http://*/*", "https://*/*" ],
+	"document_start": "document_end"
+  } ],
+  "manifest_version": 3,
+  "name": "Old Google Search UI",
+  "version": "0.1",
+  "permissions": [ "tabs" ]
+}
